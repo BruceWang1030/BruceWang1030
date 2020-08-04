@@ -8,7 +8,7 @@
 </a>
 
 <br />
-<img align="right" alt="Hello" width="240px" src="./campfire.png" />
+<img align="right" alt="Hello" width="240px" src="https://github.com/BruceWang1030/BruceWang1030/blob/master/campfire.png" />
 
 ### I am Bruce Wang
 - An Full Stack Developer & Open Source enthusiast.
