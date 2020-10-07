@@ -11,8 +11,8 @@
 <img align="right" alt="Hello" width="240px" src="https://github.com/BruceWang1030/BruceWang1030/blob/master/campfire.png" />
 
 ### I am Bruce Wang
-- An Full Stack Developer & Open Source enthusiast.
-- A Software Engineering Undergraduate Student. 
+- A Full Stack Developer & Open Source enthusiast.
+- A Software Engineering Undergraduate Student at University of Waterloo. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 
 
