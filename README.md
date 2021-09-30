@@ -12,7 +12,7 @@
 
 ### I am Bruce Wang
 - A Full Stack Developer & Open Source enthusiast.
-- A Software Engineering Undergraduate Student at University of Waterloo. 
+- A Software Engineering undergraduate student at University of Waterloo. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 
 
