@@ -11,9 +11,9 @@
 <img align="right" alt="Hello" width="240px" src="https://github.com/BruceWang1030/BruceWang1030/blob/master/campfire.png" />
 
 ### I am Bruce Wang
-- A Full Stack Developer with interests in AI.
+- A Full Stack Web Developer with interests in AI.
 - A Software Engineering undergraduate student at University of Waterloo. 
-- Currently working on some of my cool side projects.
+- Currently looking for full time opportunities after graduation Apr 2023
 
 
 ⭐️ From [Bruce](https://github.com/BruceWang1030)
