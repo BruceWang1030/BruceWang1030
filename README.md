@@ -12,8 +12,7 @@
 
 ### I am Bruce Wang
 - A Full Stack Web Developer with interests in AI.
-- A Software Engineering undergraduate student at University of Waterloo. 
-- Currently looking for full time opportunities after graduation Apr 2023
+- Graduated from University of Waterloo Software Engineering. 
 
 
 ⭐️ From [Bruce](https://github.com/BruceWang1030)
